@@ -5,4 +5,4 @@
 pkg install sudo
 visudo
 # The usual things you need
-pkg install vim htop neofetch
+pkg install vim htop neofetch pkgconf
